@@ -10,4 +10,4 @@
 #Sími demo:
 ![](https://github.com/j3LLy44/Verkefni_6/blob/main/Prototype-04.png)
 # Logo:
-![](https://github.com/j3LLy44/Verkefni_6/blob/main/P
+![](https://github.com/j3LLy44/Verkefni_6/blob/main/Prototype-05.png)
